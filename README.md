@@ -23,7 +23,6 @@ The platform synchronizes driver-state information with lap time, sector delta, 
 
 4. Explainable AI
 Instead of simply displaying "Stress: 85%", APEXMIND explains why the system reached that conclusion:
-
 Radio → Transcript → Driver State → Race Context → Track Location → Telemetry → Performance → Recommendation
 
 5. Context-Aware Analysis
@@ -62,10 +61,12 @@ Every important result includes a confidence score based on the available eviden
 Although the prototype focuses on Oliver Bearman and the MoneyGram Haas F1 Team, the architecture can eventually support different drivers, teams, circuits and racing categories.
 
 Why APEXMIND Matters ?
+
 The real problem in modern motorsport is not a lack of data. Teams already have enormous amounts of data.The challenge is connecting the right pieces of information at the right moment.A driver might report a problem through radio seconds before a measurable performance change appears in telemetry. A stress response might occur only in one specific sector. A tyre issue might become visible through both the driver's language and the car's performance. Individually, these signals can be ambiguous. Together, they can provide a much clearer picture.APEXMIND is designed to bridge this gap.It creates a connection between the human and the machine:
 What the driver says → How the driver responds → Where it happens → What the car does → How performance changes → What the engineer should consider next.
 The result is a race intelligence layer that helps engineers move from simply monitoring data to understanding the situation.
 
 Conclusion
+
 APEXMIND AI — The Silent Co-Driver is not designed to replace the human race engineer. It is designed to give the engineer a better view of the race.Its central idea is simple:Don't just listen to the driver. Understand the driver in the context of the car, the track and the race.By combining AI-powered radio analysis, multimodal driver-state estimation, telemetry, performance correlation, optional physiological validation, predictive analysis and interactive 3D track intelligence, APEXMIND turns fragmented race data into a single, explainable intelligence system.From Driver Voice to Race Decision.
 VOICE → STATE → TRACK → PERFORMANCE → ACTION.
