@@ -1,7 +1,7 @@
 # Apex-Mind-AI---The-Silent-Co-Driver
 APEXMIND AI — The Silent Co-Driver
 
-Try the website - 
+Try the website - https://apexmind-ten.vercel.app/
 
 APEXMIND AI is an AI-powered Formula One race intelligence platform built around one simple idea: understand the driver before a problem becomes a performance problem.
 During a race, a driver communicates through short radio messages while dealing with extreme physical and mental pressure. At the same time, the car generates huge amounts of telemetry and performance data. These two sources are usually analyzed separately. APEXMIND brings them together.
